@@ -44,5 +44,5 @@
 <p>Hasil dari program Kalkulator sederhana</p>
 <p><img width="693" alt="hasil1" src="https://github.com/user-attachments/assets/6a0a7f8d-676a-43b9-af28-4c0a548654a0">
 </p>
-<p><b>Penjelasan Program</b></p>
+
 
