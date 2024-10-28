@@ -6,7 +6,7 @@
 # 1. Tiket Bioskop
 <p>Program tiket bioskop ini adalah program untuk menghitung harga Tiket bioskop. Konsepnya adalah jika user memiliki kartu member maka user akan mendapatkan diskon 20%</p>
 <p><b>Flowchart dari Program Tersebut</b></p>
-<p>![flowchartbioskop](https://github.com/user-attachments/assets/19342a53-b7bc-4311-b59e-5945771ba45a)
+<p>![flowchartkalkulator](https://github.com/user-attachments/assets/8e1b70ae-1ba1-487c-a95a-7b6bfab14402)
 </p>
 <P><b>Hasil Dari Program Phyton Tiket Bioskop</b></P>
 <p><img width="689" alt="hasil2" src="https://github.com/user-attachments/assets/da180956-409b-453e-a064-5c871aaa5de3">
@@ -36,3 +36,13 @@
 <ol>Total Harga</ol>
 <p>9. End (Selesai): Program berakhir. </p>
 <p>Flowchart ini membantu program untuk mengkalkulasi harga tiket berdasarkan tipe tiket dan status keanggotaan pengguna, serta menampilkan detail pembayaran yang lengkap.</p>
+# 2. KALKULATOR SEDERHANA
+<p>Program ini adalah program Kalkulator sederhana yang berfungsi untuk menghitung dua angka sesuai dengan operasi hitung yang dipilih.</p>
+<p><b>Berikut flowchratnya</b></p>
+<p>![flowchartkalkulator](https://github.com/user-attachments/assets/4d10c332-6e63-4622-930e-d4fb96ae21e7)
+</p>
+<p>Hasil dari program Kalkulator sederhana</p>
+<p><img width="693" alt="hasil1" src="https://github.com/user-attachments/assets/6a0a7f8d-676a-43b9-af28-4c0a548654a0">
+</p>
+<p><b>Penjelasan Program</b></p>
+
